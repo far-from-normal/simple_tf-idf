@@ -54,28 +54,28 @@ shakespeare
 should return
 
 ```
-  1. (31.27)	Five histories, William Shakespeare,William Shakespeare,William Shakespeare,William Shakespeare,William Shakespeare,William Shakespeare
+  1. (20.86)	Plays of Mr. William Shakespeare : as re-written or re-arranged by his successors of the restoration period as presented at the Dukes theatre and elsewhere circa 1664-1669; being the text of these so-restored plays with the First folio Shakespeare te, William Shakespeare,Appleton Morgan,Willis Vickery,Shakespeare Society of New York
 
-  2. (26.06)	Five tragedies, William Shakespeare,William Shakespeare,William Shakespeare,William Shakespeare,William Shakespeare
+  2. (15.64)	Shakespeare's Comedy of A Midsummer Night's Dream, William Shakespeare , Shakespeare, Israel Gollancz, McMahon
 
-  3. (26.06)	Shakespeare day; report of meeting, organised by the Shakespeare association, held at King's college, University of London, on May 3, 1917, to promote an annual Shakespeare day in the schools and other institutions, Shakespeare Association (Great Britain),Shakespeare Association (Great Britain)
+  3. (15.64)	Plays of Mr. William Shakespeare : as re-written or re-arranged by his successors of the restoration period as presented at the Dukes theatre and elsewhere circa 1664-1669; being the text of these so-restored plays with the First folio Shakespeare te, William Shakespeare,Appleton Morgan,Willis Vickery
 
-  4. (20.84)	Shakespeare day; report of meeting, organised by the Shakespeare association, held at King's college, University of London, on May 3, 1917, to promote an annual Shakespeare day in the schools and other institutions, Shakespeare Association (Great Britain)
+  4. (15.64)	Plays of Mr. William Shakespeare as re-written or re-arranged by his successors of the restoration period as presented at the Dukes theatre and elsewhere circa 1664-1669; being the text of these so-restored plays with the First folio Shakespeare text, William Shakespeare,Appleton Morgan,Willis Vickery
 
-  5. (20.84)	A catalogue of the books, manuscripts, works of art, antiquities and relics, illustrative of the life and works of Shakespeare, and of the history of Stratford-upon-Avon; which are preserved in the Shakespeare Library and Museum in Henley Street, Shakespeare Birthplace Trust,Shakespeare Memorial (Stratford-upon-Avon, England). Library
+  5. (15.64)	The dramatic works of William Shakespeare : accurately printed from the text of the corrected copy left by the late George Steevens, Esq. : with a glossary, and notes, and a sketch of the life of Shakespeare, William Shakespeare,George Steevens
 
-  6. (20.84)	Plays of Mr. William Shakespeare : as re-written or re-arranged by his successors of the restoration period as presented at the Dukes theatre and elsewhere circa 1664-1669; being the text of these so-restored plays with the First folio Shakespeare te, William Shakespeare,Appleton Morgan,Willis Vickery,Shakespeare Society of New York
+  6. (15.64)	Shakespeare's poems: Venus and Adonis, Lucrece, Sonnets, etc, William Shakespeare,W. J. (William James) Rolfe,William Shakespeare
 
-  7. (15.63)	The old-spelling Shakespeare: being the works of Shakespeare in the spelling of the best quarto and folio texts; ed. by F.J. Furnivall and the late W.G. Boswell-Stone, William Shakespeare,Frederick James Furnivall,W. G. (Walter George) Boswell-Stone
+  7. (15.64)	The Shakespeare apocrypha; being a collection of fourteen plays which have been ascribed to Shakespeare. Edited with introd., notes and bibliography by C.F. Tucker Brooke, Charles Frederick Tucker Brooke,William Shakespeare
 
-  8. (15.63)	Shakespeare's Comedy of A Midsummer Night's Dream, William Shakespeare , Shakespeare, Israel Gollancz, McMahon
+  8. (15.64)	Shakespeare's King Lear, Harold Bloom,William. King Lear Shakespeare,Harold. Shakespeare Bloom
 
-  9. (15.63)	The comedies, histories, and tragedies of Mr. William Shakespeare as presented at the Globe and Blackfriars Theatres, circa 1591-1623 : being the text furnished the players, in parallel pages with the first revised folio text, with critical introduct, William Shakespeare,Appleton Morgan,Rogers, Bruce, former owner. DLC,Shakespeare Society of New York,Pforzheimer Bruce Rogers Collection (Library of Congress) DLC
+  9. (15.64)	Shakespeare's songs, William Shakespeare, Arthur Henry Bullen, Shakespeare Head Press
 
- 10. (15.63)	Plays of Mr. William Shakespeare : as re-written or re-arranged by his successors of the restoration period as presented at the Dukes theatre and elsewhere circa 1664-1669; being the text of these so-restored plays with the First folio Shakespeare te, William Shakespeare,Appleton Morgan,Willis Vickery
+ 10. (15.64)	Shakespeare's Julius Caesar, Harold Bloom,Harold. Shakespeare Bloom,William. Julius Caesar Shakespeare
 
 
- Top 10 results requested. Only 10 documents match the search criteria. Search completed in 1.565483808517456 seconds.
+ Top 10 results requested. Only 10 documents match the search criteria. Search completed in 1.6247971057891846 seconds.
 ```
 
 In general, searches can accept multiple terms, serarated by spaces.
