@@ -45,7 +45,7 @@ Initializing the search engine should take approximatley 1 minute.
 
 ## Running the search engine
 
-After the initialization is complete, running the search engine with the default initialization parameters for 
+After the initialization with the default parameters is complete, running the search engine for 
 
 ```
 shakespeare
